@@ -3,7 +3,7 @@
   "id": "nohitdelay",
   "version": "${version}",
   "name": "NoHitDelay",
-  "description": "No Hit Delay",
+  "description": "Removes the delay when hitting in 1.8.9",
   "authors": [
     "Kathund"
   ],
@@ -11,6 +11,8 @@
     "homepage": "https://github.com/Kathund/NoHitDelay/",
     "sources": "https://github.com/Kathund/NoHitDelay/"
   },
+  "license": "MIT",
+  "icon": "assets/nohitdelay/logo.png",
   "environment": "client",
   "entrypoints": {
     "init": [
